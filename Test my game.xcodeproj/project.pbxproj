@@ -58,8 +58,6 @@
 		DB44BC3D2545C3310057535B /* Test my game */ = {
 			isa = PBXGroup;
 			children = (
-				DB4B120A254E0A190093F6BC /* Screnshoot 01.png */,
-				DB4B1209254E0A190093F6BC /* Screnshoot 02.png */,
 				DB4B120E254E0A1F0093F6BC /* Screnshots */,
 				DB44BC3E2545C3310057535B /* AppDelegate.swift */,
 				DB44BC402545C3310057535B /* art.scnassets */,
@@ -74,6 +72,8 @@
 		DB4B120E254E0A1F0093F6BC /* Screnshots */ = {
 			isa = PBXGroup;
 			children = (
+				DB4B120A254E0A190093F6BC /* Screnshoot 01.png */,
+				DB4B1209254E0A190093F6BC /* Screnshoot 02.png */,
 			);
 			path = Screnshots;
 			sourceTree = "<group>";
